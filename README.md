@@ -18,6 +18,7 @@ If you flashed your Pro GTX with XMAKB5R0P0*** (XMAKB5R0P0A07, XMAKB5R0P0E07, XM
 (This option needed because now your Pro GTX think he is Pro MX150/MX250 version)
 3. Plug in the power and don't unplug!
 4. Run H2OFFT-Wx64.exe as administrator.
+
 Your laptop will be restart several times and finnaly the BIOS will be updated to XMAKB5RRP0(XMAKB5RRP0804)
 
 
@@ -45,4 +46,5 @@ XMAKB5R**R**P0 - Версия БИОС для Notebook Pro GTX
 (Это нужно нам потому что Pro GTX думает что он Pro MX150/MX250)
 3. Включаем ноут в зарядку и не отключаем! Если отключите питание то может вообще полететь БИОС и восстановить его можно будет только при помощи программатора.
 4. Запускаем H2OFFT-Wx64.exe от имени администратора.
+
 Ноут будет перезагружен несколько раз и в результате БИОС будет обновлён до XMAKB5RRP0(XMAKB5RRP0804)
