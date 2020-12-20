@@ -6,9 +6,9 @@ Xiaomi Mi Notebook Pro GTX BIOS Firmware or how to unbrick your laptop
 
 How to unbrick your Xiaomi Mi Notebook Pro GTX if you flashed the BIOS with non Pro GTX firmware.
 
-`XMAKB5R**0**P0 - Notebook Pro MX150/MX250 BIOS version`
+XMAKB5R**0**P0 - Notebook Pro MX150/MX250 BIOS version
 
-`XMAKB5R**R**P0 - Notebook Pro GTX BIOS version`
+XMAKB5R**R**P0 - Notebook Pro GTX BIOS version
 
 If you flashed your Pro GTX with XMAKB5R0P0*** (XMAKB5R0P0A07, XMAKB5R0P0E07, XMAKB5R0P0300, XMAKB5R0P0401, XMAKB5R0P0502, XMAKB5R0P0603, XMAKB5R0P0906) versions of Pro MX150/MX250 firmware do this things to unbrick your laptop
 
@@ -28,9 +28,9 @@ Your laptop will be restart several times and finnaly the BIOS will be updated t
 
 Как восстановить свой Xiaomi Mi Notebook Pro GTX если вы прошили БИОС не родной прошивкой.
 
-`XMAKB5R**0**P0 - Версия БИОС для Notebook Pro MX150/MX250`
+XMAKB5R**0**P0 - Версия БИОС для Notebook Pro MX150/MX250
 
-`XMAKB5R**R**P0 - Версия БИОС для Notebook Pro GTX`
+XMAKB5R**R**P0 - Версия БИОС для Notebook Pro GTX
 
 Если вы прошили БИОС Pro GTX прошивкой для Pro MX150/MX250 XMAKB5R0P0*** (GTXMAKB5R0P0A07, XMAKB5R0P0E07, XMAKB5R0P0300, XMAKB5R0P0401, XMAKB5R0P0502, XMAKB5R0P0603, XMAKB5R0P0906) то делайте как написано в гайде чтобы восстановить свой ноут
 
